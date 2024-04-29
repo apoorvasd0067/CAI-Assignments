@@ -1,0 +1,14 @@
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\bin\Debug\net6.0\C#Assignments.exe
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\bin\Debug\net6.0\C#Assignments.deps.json
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\bin\Debug\net6.0\C#Assignments.runtimeconfig.json
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\bin\Debug\net6.0\C#Assignments.dll
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\bin\Debug\net6.0\C#Assignments.pdb
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\obj\Debug\net6.0\C#Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\obj\Debug\net6.0\C#Assignments.AssemblyInfoInputs.cache
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\obj\Debug\net6.0\C#Assignments.AssemblyInfo.cs
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\obj\Debug\net6.0\C#Assignments.csproj.CoreCompileInputs.cache
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\obj\Debug\net6.0\C#Assignments.dll
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\obj\Debug\net6.0\refint\C#Assignments.dll
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\obj\Debug\net6.0\C#Assignments.pdb
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\obj\Debug\net6.0\C#Assignments.genruntimeconfig.cache
+C:\Users\sda\Desktop\c# assignment\C#Assignments\C#Assignments\obj\Debug\net6.0\ref\C#Assignments.dll
